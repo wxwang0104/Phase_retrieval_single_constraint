@@ -1,2 +1,8 @@
 # Phase_retrieval_single_constraint
-Implementation of phase retrieval using Gerchberg-Saxton algorithm
+This is an implementation of phase retrieval using Gerchberg-Saxton algorithm
+
+The basic algorithm works as below: 
+
+![Raw img](Algorithm.png)
+
+
