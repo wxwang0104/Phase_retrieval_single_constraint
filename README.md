@@ -12,3 +12,5 @@ demo_main.py
 The result is shown as below:
 
 <img src="result.png" width="500">
+
+For more information pleaser refer to https://doi.org/10.1364/OE.27.003799
